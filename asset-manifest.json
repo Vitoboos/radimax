@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/.github.io/radimax/static/css/main.91ddc532.css",
+    "main.js": "/.github.io/radimax/static/js/main.d13e4317.js",
+    "static/js/787.129ea3a3.chunk.js": "/.github.io/radimax/static/js/787.129ea3a3.chunk.js",
+    "static/media/doublearrow.svg": "/.github.io/radimax/static/media/doublearrow.a09d4c4277fcd8a58ff3b8e87763550b.svg",
+    "index.html": "/.github.io/radimax/index.html",
+    "main.91ddc532.css.map": "/.github.io/radimax/static/css/main.91ddc532.css.map",
+    "main.d13e4317.js.map": "/.github.io/radimax/static/js/main.d13e4317.js.map",
+    "787.129ea3a3.chunk.js.map": "/.github.io/radimax/static/js/787.129ea3a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ddc532.css",
+    "static/js/main.d13e4317.js"
+  ]
+}
