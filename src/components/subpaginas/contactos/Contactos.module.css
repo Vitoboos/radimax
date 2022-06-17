@@ -1,0 +1,107 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    border-style: solid;
+    border-color: black;
+    border-right: none;
+    border-left: none;
+    border-width: thin;
+}
+
+.grid .phones{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid .subtitle{
+    margin: 0.1vh 5vw;
+    grid-column: span 2;
+}
+
+.grid .text{
+    margin-right: 10vw;
+}
+
+.grid .item{
+    margin: 0.1vh 5vw;
+    grid-column: span 2;
+    display: grid;
+    grid-template-columns: 10% 90%;
+}
+
+.grid .email{
+    grid-column: span 2;
+}
+
+.grid .message{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.grid .message .title{
+    margin: 0px;
+    grid-column: span 2;
+}
+
+.grid .message .input{
+    display: block;
+    margin: center;
+    padding: 2vh 2vw;
+}
+
+.grid .message .shortField{
+    margin: 0.5vh 0px;
+}
+
+.grid .message .shortField .input{
+    width: 60%;
+}
+
+.grid .message .longField{
+    margin: 0.5vh 0px;
+    grid-column: span 2;
+}
+
+.grid .message .longField .input{
+    width: 80%;
+}
+
+.grid .textareaBox{
+    grid-column: span 2;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+.grid .textarea{
+    margin: 1vh 0px;
+    width: 43.4vw;
+    height: 20vh;
+}
+
+.grid .submit{
+    grid-column: span 2;
+    display: block;
+    width: 25vw;
+    margin: 1vh 10vw;
+    padding: 1vh 1vw;
+}
+
+.icon{
+    display: block;
+    margin: auto;
+    width: 2.5vw;
+    height: 5vh;
+}
+
+.mapBox{
+    margin: 1vh 5vw;
+}
+
+.mapImage{
+    display: block;
+    margin: auto;
+    width: 40vw;
+    height: 40vh;
+}

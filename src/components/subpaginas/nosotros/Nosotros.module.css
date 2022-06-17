@@ -1,0 +1,67 @@
+.grid{
+    margin: 0px 0.25vw;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+}
+
+.mainText{
+    margin: 0px 20vw;
+    grid-column: span 2;
+    padding: 3vw 3vh;
+}
+
+.container{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content:center;
+
+    border-style: solid;
+    border-color: black;
+}
+
+.subtitle{
+    margin: 0px 5vw;
+    text-align: left;
+}
+
+.text{
+    margin: 1vh 5vw;
+}
+
+.imageContainer{
+    height: 30vh;
+    border-style: solid;
+    border-color: black;
+}
+
+.gridImage{
+    width: 100%;
+    height: 30vh;
+}
+
+.gridSeparator{
+    grid-column: span 2;
+    text-align: center;
+
+    border-style: solid;
+    border-color: black;
+
+    border-left: none;
+    border-right: none;
+}
+
+.bottomContainer{ 
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content:center;
+}
+
+.bottomContainer .subtitle{
+    margin: 1vh 5vw;
+    text-align: left;
+}

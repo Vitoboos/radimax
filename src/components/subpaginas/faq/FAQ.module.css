@@ -1,0 +1,33 @@
+.faqGrid{
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+.faqBox{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.faqBox .item .answer{
+    padding: 2vh 2vw;
+    border-style: solid;
+    border-width: thin;
+
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.askBox .title{
+    text-align: center;
+}
+
+.askBox .text{
+    margin: 1vh 5vw;
+}
+
+.askBox .btn{
+    display: block;
+    margin: 5vh auto;
+    padding: 2vh 4vw;
+}

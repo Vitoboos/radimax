@@ -1,0 +1,69 @@
+.upperGrid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.upperGrid .title{
+    margin: 2vh 0px;
+    grid-column: span 3;
+    text-align: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    border-right: none;
+    border-left: none;
+}
+
+.upperGrid .subtitle{
+    text-align: center;
+}
+
+.upperGrid .text{
+    text-align: justify;
+    margin: 2vh 5vw;
+    padding: 1.5vh 2vw;
+
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
+
+
+.gridImage{
+    display: block;
+    margin: auto;
+    width: 25vw;
+    height: 25vh;
+}
+
+.bottomGrid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.bottomGrid .title{
+    margin: 2vh 0px;
+    grid-column: span 2;
+    text-align: center;
+
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+    border-right: none;
+    border-left: none;
+}
+
+.bottomGrid .subtitle{
+    text-align: center;
+}
+
+.bottomGrid .text{
+    text-align: justify;
+    margin: 2vh 12.5vw;
+    padding: 1.5vh 2vw;
+
+    border-style: solid;
+    border-color: black;
+    border-width: thin;
+}
