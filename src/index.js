@@ -18,7 +18,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
 
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    {/* Uso de Hashrouter para hacer deploy a GitHub Pages */}
+
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
 
         <Route path="/" element={<Navigate to="/inicio" />} />
@@ -29,7 +31,7 @@ root.render(
         <Route path='/faq' element={<FAQ/>}/>
 
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
 
   </React.StrictMode>
 );
