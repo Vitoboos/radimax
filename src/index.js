@@ -12,13 +12,13 @@ import FAQ from './components/subpaginas/FAQ';
 
 
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, HashRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
 
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Routes>
 
         <Route path="/" element={<Navigate to="/inicio" />} />
@@ -29,7 +29,7 @@ root.render(
         <Route path='/faq' element={<FAQ/>}/>
 
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
 
   </React.StrictMode>
 );
