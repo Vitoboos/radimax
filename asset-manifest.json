@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/radimax/static/css/main.91ddc532.css",
-    "main.js": "/radimax/static/js/main.cbfa45fa.js",
+    "main.js": "/radimax/static/js/main.61bd1d85.js",
     "static/js/787.129ea3a3.chunk.js": "/radimax/static/js/787.129ea3a3.chunk.js",
     "static/media/doublearrow.svg": "/radimax/static/media/doublearrow.a09d4c4277fcd8a58ff3b8e87763550b.svg",
     "index.html": "/radimax/index.html",
     "main.91ddc532.css.map": "/radimax/static/css/main.91ddc532.css.map",
-    "main.cbfa45fa.js.map": "/radimax/static/js/main.cbfa45fa.js.map",
+    "main.61bd1d85.js.map": "/radimax/static/js/main.61bd1d85.js.map",
     "787.129ea3a3.chunk.js.map": "/radimax/static/js/787.129ea3a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91ddc532.css",
-    "static/js/main.cbfa45fa.js"
+    "static/js/main.61bd1d85.js"
   ]
 }
