@@ -1,16 +1,36 @@
 {
   "files": {
-    "main.css": "/radimax/static/css/main.91ddc532.css",
-    "main.js": "/radimax/static/js/main.61bd1d85.js",
+    "main.css": "/radimax/static/css/main.874828b6.css",
+    "main.js": "/radimax/static/js/main.714b23c0.js",
     "static/js/787.129ea3a3.chunk.js": "/radimax/static/js/787.129ea3a3.chunk.js",
-    "static/media/doublearrow.svg": "/radimax/static/media/doublearrow.a09d4c4277fcd8a58ff3b8e87763550b.svg",
+    "static/media/slider3.jpg": "/radimax/static/media/slider3.286e33ae740edea8f0dd.jpg",
+    "static/media/slider2.jpg": "/radimax/static/media/slider2.cd6537e86c1caf1a049e.jpg",
+    "static/media/periapicales.png": "/radimax/static/media/periapicales.b3522bff26c294bb7925.png",
+    "static/media/panoramicas.png": "/radimax/static/media/panoramicas.a4c57dc8812eaf446197.png",
+    "static/media/slider5.jpg": "/radimax/static/media/slider5.f55375a0cbd5b540cce7.jpg",
+    "static/media/slider1.jpg": "/radimax/static/media/slider1.9a3d73bca42cdc06f0e1.jpg",
+    "static/media/tecnologia2d.jpg": "/radimax/static/media/tecnologia2d.e8578a31125615b6f4c4.jpg",
+    "static/media/cefalicas.png": "/radimax/static/media/cefalicas.996d1dffdd29e3925f35.png",
+    "static/media/coronales.png": "/radimax/static/media/coronales.e3e7cc3f38cb473c1311.png",
+    "static/media/slider4.jpg": "/radimax/static/media/slider4.bc759da50d6db4918d34.jpg",
+    "static/media/atm.png": "/radimax/static/media/atm.d41eac73ad4f55cf44f7.png",
+    "static/media/frontales.png": "/radimax/static/media/frontales.312eed7b9b8f0ca38f5f.png",
+    "static/media/oclusales.png": "/radimax/static/media/oclusales.31d572ef266c287267cb.png",
+    "static/media/nitidezyeficacia.png": "/radimax/static/media/nitidezyeficacia.452c3eb0aa1bab063d49.png",
+    "static/media/historia.jpg": "/radimax/static/media/historia.d04f2426136b2a7b37bc.jpg",
+    "static/media/ubicacion.png": "/radimax/static/media/ubicacion.52d117cd8c33531807c1.png",
+    "static/media/compromiso.webp": "/radimax/static/media/compromiso.725269329162dfad47f2.webp",
+    "static/media/email.png": "/radimax/static/media/email.2cb3bd371038792d16d1.png",
+    "static/media/LogoRadimax4.svg": "/radimax/static/media/LogoRadimax4.4264ed823a692beab383b1b47f6faba0.svg",
     "index.html": "/radimax/index.html",
-    "main.91ddc532.css.map": "/radimax/static/css/main.91ddc532.css.map",
-    "main.61bd1d85.js.map": "/radimax/static/js/main.61bd1d85.js.map",
+    "static/media/wavesNegative.svg": "/radimax/static/media/wavesNegative.c46d51543f9660722d8b675e406dd993.svg",
+    "static/media/waves.svg": "/radimax/static/media/waves.b7ed619edc9bf40644eaa894a2a4ad2a.svg",
+    "main.874828b6.css.map": "/radimax/static/css/main.874828b6.css.map",
+    "main.714b23c0.js.map": "/radimax/static/js/main.714b23c0.js.map",
     "787.129ea3a3.chunk.js.map": "/radimax/static/js/787.129ea3a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91ddc532.css",
-    "static/js/main.61bd1d85.js"
+    "static/css/main.874828b6.css",
+    "static/js/main.714b23c0.js"
   ]
 }
